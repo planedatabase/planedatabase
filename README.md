@@ -9,7 +9,7 @@
 <div align=center> <h2> About </h2> </div>
 
 <p align=center> Zephyr/Airy
-<br> He/it, minor, white. Self suspected OSDD. </p> 
+<br> He/it, minor, white. </p> 
 
 <p align=center> Current interests: HfjONE, Stranger Things, Portal 1 and 2, and more. I also play a little Dandy's World here and there. </p> 
 
