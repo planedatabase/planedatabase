@@ -1,7 +1,5 @@
 <div align=center> <h1> planedatabase </h1> </div>
 
-<p align=center>🎄 <a href="https://colormytree.me/2025/01KC4ZN2TTNG406706TQEWYYRY">Color my tree!!!</a> 🎄</p>
-
 <p align=center> ${{\color{#7bafbd}\huge{\texttt{Zephyr}}}}$ </p>
 
 <div align=center> <img src="https://media.tenor.com/OG97yGQBIC8AAAAM/hfjone-airy-hfjone.gif" style="align center" width="350"> </div>
@@ -19,6 +17,6 @@
 <p align=center> I have bad memory. If I can't remember something please be patient.
   <br> I block freely! It is nothing personal. </p>
 
-  <p align=center>I am uncomfortable with: Lairy/airpack shippers, pro/darkshippers, and endogenics. Ponytown user batisKRAZY. </p>
+  <p align=center>I am uncomfortable with: Lairy/airpack shippers, pro/darkshippers, endogenics, and big fans of Steve Cobs II or mephone4(/srs. it may seem silly, but I have my reasons.) . Ponytown user batisKRAZY. </p>
 
   <p align=center> more likely TBA </p>
